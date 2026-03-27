@@ -24,4 +24,6 @@ out/
 Thumbs.db
 
 # brainstorming visual companion
-.superpowers/
+
+# git worktrees
+.worktrees/
